@@ -1,0 +1,2 @@
+# TERMUX-SETUP
+It’s Tarmux Setup COMAND BD TOOL 👻 \n DAVLOPER BY : KGF CYBER TEAM
