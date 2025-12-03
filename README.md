@@ -24,10 +24,10 @@ python KGF-TARMUX-SETUP.py
 
 ---
 
-<h3 align="center"><b>📱 TERMUX COMAND INTERFACE</b></h3>
+<h3 align="center"><b>📱 TERMUX INTERFACE</b></h3>
 
 <p align="center">
-  <img src="./image/demo1.jpg" width="85%">
+  <img src="https://github.com/KGF12-CYBER/TERMUX-SETUP/blob/main/demo1.jpg" width="85%">
 </p>
 
 ---
@@ -38,6 +38,10 @@ If you face any issue during installation or running the tool, feel free to cont
 
 📩 **Email:**  
 👉 <a href="mailto:kalyanking@gmail.com">kalyanking@gmail.com</a>  
+
+📢 **Telegram Channel:**  
+👉 <a href="https://t.me/KGF_TEAM_CBER">https://t.me/KGF_TEAM_CBER</a>
+
 📌 Or open an issue on GitHub.
 
 ---
@@ -52,8 +56,8 @@ Author : KALYAN KING (ANONYMOUS CYBER)
 All Rights Reserved.
 ```
 
-This Python project and all its contents (code, documentation, assets) are the  
-intellectual property of **ANONYMOUS CYBER**.  
+This Python project and all its contents (code, documentation, assets)  
+are the intellectual property of **ANONYMOUS CYBER**.  
 Reproduction, distribution, or modification without permission is strictly prohibited.
 
 ---
